@@ -1,0 +1,12 @@
+{
+  "symbol": "BTCUSDT",
+  "grid_levels": 12,
+  "grid_spacing_usd": 802.02,
+  "grid_lower": 63452.26,
+  "grid_upper": 72274.5,
+  "stop_loss": 57107,
+  "capital_per_level_usd": 60,
+  "fee_rate": 0.001,
+  "recvWindow": 60000,
+  "server_time_offset_ms": 5400
+}
